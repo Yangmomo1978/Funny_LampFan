@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>tmplate/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>271</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>1304</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15151-7974</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>tmplate</ExpandedNode><ExpandedNode>tmplate/CMSIS</ExpandedNode><ExpandedNode>tmplate/Drivers</ExpandedNode><ExpandedNode>tmplate/USER</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-24939-29957</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-21010-9134</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-4356-22259</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\remote.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>390</SelStart><SelEnd>390</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\led.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>135</SelStart><SelEnd>135</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>196</SelStart><SelEnd>196</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>237</SelStart><SelEnd>237</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c</Filename><XPos>0</XPos><YPos>980</YPos><SelStart>32161</SelStart><SelEnd>32161</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>342</SelStart><SelEnd>342</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\gpio_0.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1675</SelStart><SelEnd>1675</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\gpio_0.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>239</SelStart><SelEnd>239</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>247</YPos><SelStart>8558</SelStart><SelEnd>8558</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\USART.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1427</SelStart><SelEnd>1427</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\USART.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>89</SelStart><SelEnd>89</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\remote.c</Filename><XPos>0</XPos><YPos>164</YPos><SelStart>4795</SelStart><SelEnd>4795</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\pwm.c</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>3604</SelStart><SelEnd>3604</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1144</SelStart><SelEnd>1144</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>88</YPos><SelStart>3623</SelStart><SelEnd>3623</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>477</YPos><SelStart>20478</SelStart><SelEnd>20478</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\led.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>482</SelStart><SelEnd>482</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</Filename><XPos>0</XPos><YPos>113</YPos><SelStart>6688</SelStart><SelEnd>6688</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\iar\startup_stm32f10x_hd.s</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>5680</SelStart><SelEnd>5680</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c</Filename><XPos>0</XPos><YPos>1008</YPos><SelStart>36616</SelStart><SelEnd>36616</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>196</YPos><SelStart>8012</SelStart><SelEnd>8012</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\delay.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>885</SelStart><SelEnd>885</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rtc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>70</YPos><SelStart>5032</SelStart><SelEnd>5032</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>12549</SelStart><SelEnd>12549</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h</Filename><XPos>0</XPos><YPos>1123</YPos><SelStart>65795</SelStart><SelEnd>65795</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Libraries\CMSIS\CM3\CoreSupport\core_cmFunc.h</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>869</SelStart><SelEnd>869</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>3089</SelStart><SelEnd>3089</SelEnd></Tab><ActiveTab>28</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_sensor.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>2293</SelStart><SelEnd>2293</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_Sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>240</SelStart><SelEnd>240</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_RF430CL330H.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>108</SelStart><SelEnd>108</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_RF430CL330H.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2580</SelStart><SelEnd>2580</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_ee.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>667</SelStart><SelEnd>667</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\USER\i2c_ee.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>410</SelStart><SelEnd>410</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00287fa8><key>iaridepm.enu1</key></Toolbar-00287fa8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>828</Bottom><Right>345</Right><x>-2</x><y>-2</y><xscreen>10</xscreen><yscreen>11</yscreen><sizeHorzCX>5952</sizeHorzCX><sizeHorzCY>11364</sizeHorzCY><sizeVertCX>206548</sizeVertCX><sizeVertCY>857438</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>95</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>97</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>100207</sizeHorzCY><sizeVertCX>37500</sizeVertCX><sizeVertCY>58884</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

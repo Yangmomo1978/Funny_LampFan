@@ -1,0 +1,108 @@
+Init_USART1	USART.c	/^void Init_USART1(void)$/;"	f
+fputc	USART.c	/^int fputc(int ch, FILE *f)$/;"	f
+_USART_H	USART.h	2;"	d
+delay_init	delay.c	/^void delay_init(u8 SYSCLK)$/;"	f
+delay_ms	delay.c	/^void delay_ms(u16 nms)$/;"	f
+delay_us	delay.c	/^void delay_us(u32 Nus)$/;"	f
+fac_ms	delay.c	/^static u16 fac_ms=0;\/\/msʱ$/;"	v	file:
+fac_us	delay.c	/^static u8  fac_us=0;\/\/usʱ$/;"	v	file:
+__DELAY_H	delay.h	2;"	d
+EEPROM_ADDRESS	i2c_ee.c	/^u16 EEPROM_ADDRESS;$/;"	v
+I2C1_SLAVE_ADDRESS7	i2c_ee.c	4;"	d	file:
+I2C_EE_BufferRead	i2c_ee.c	/^void I2C_EE_BufferRead(u8* pBuffer, u16 ReadAddr, u16 NumByteToRead)$/;"	f
+I2C_EE_BufferWrite	i2c_ee.c	/^void I2C_EE_BufferWrite(u8* pBuffer, u16 WriteAddr, u16 NumByteToWrite)$/;"	f
+I2C_EE_ByteWrite	i2c_ee.c	/^void I2C_EE_ByteWrite(u8* pBuffer, u16 WriteAddr)$/;"	f
+I2C_EE_Init	i2c_ee.c	/^void I2C_EE_Init(void)$/;"	f
+I2C_EE_PageWrite	i2c_ee.c	/^void I2C_EE_PageWrite(u8* pBuffer, u16 WriteAddr, u8 NumByteToWrite)$/;"	f
+I2C_EE_WaitEepromStandbyState	i2c_ee.c	/^void I2C_EE_WaitEepromStandbyState(void)      $/;"	f
+I2C_GPIO_Config	i2c_ee.c	/^static void I2C_GPIO_Config(void)$/;"	f	file:
+I2C_Mode_Configu	i2c_ee.c	/^static void I2C_Mode_Configu(void)$/;"	f	file:
+I2C_PageSize	i2c_ee.c	5;"	d	file:
+I2C_Speed	i2c_ee.c	3;"	d	file:
+EEPROM_Block0_ADDRESS	i2c_ee.h	8;"	d
+__I2C_EE_H	i2c_ee.h	2;"	d
+EXTI0_Config	key.c	/^void EXTI0_Config(void)$/;"	f
+EXTI1_Config	key.c	/^void EXTI1_Config(void)$/;"	f
+EXTI2_Config	key.c	/^void EXTI2_Config(void)$/;"	f
+EXTI3_Config	key.c	/^void EXTI3_Config(void)$/;"	f
+Init_Key	key.c	/^void Init_Key(void)$/;"	f
+KeyNumber	key.c	/^u8        KeyNumber;$/;"	v
+Key_GPIO_Configuration	key.c	/^void Key_GPIO_Configuration(void)$/;"	f
+Key_Normal	key.c	/^void Key_Normal(void)$/;"	f
+Key_Turn	key.c	/^void Key_Turn(void)$/;"	f
+Value_Transform	key.c	/^void Value_Transform(void)$/;"	f
+study_flag	key.c	/^unsigned char study_flag;$/;"	v
+tempdata	key.c	/^u16       tempdata;$/;"	v
+EXIT_KEY_Line	key.h	13;"	d
+EXTI_Pin_IRQn	key.h	10;"	d
+GPIO_KEY	key.h	6;"	d
+GPIO_KEYSource	key.h	11;"	d
+H_Pin	key.h	9;"	d
+KEY_PinSource	key.h	12;"	d
+L_Pin	key.h	8;"	d
+RCC_APB2Periph_GPIO_KEY	key.h	7;"	d
+_KEY_H	key.h	2;"	d
+Clear_GDRAM	lcd12864.c	/^void Clear_GDRAM(void)$/;"	f
+Draw_Hline	lcd12864.c	/^void Draw_Hline(u8 x1,u8 x2,u8 y)$/;"	f
+Draw_Pic	lcd12864.c	/^void Draw_Pic(const u8  *adder)$/;"	f
+Draw_Point	lcd12864.c	/^void Draw_Point(u8 x,u8 y)$/;"	f
+Draw_TX	lcd12864.c	/^void Draw_TX(u8 Yaddr,u8 Xaddr,const u8 * dp) $/;"	f
+Draw_Vline	lcd12864.c	/^void Draw_Vline(u8 x,u8 y1,u8 y2)$/;"	f
+GPIO_InitStructure	lcd12864.c	/^GPIO_InitTypeDef GPIO_InitStructure;$/;"	v
+Init_LCD_Pin	lcd12864.c	/^void Init_LCD_Pin(void)$/;"	f
+Init_Lcd	lcd12864.c	/^void Init_Lcd(void)$/;"	f
+Print	lcd12864.c	/^void Print(unsigned char X, unsigned char Y, unsigned char *String)$/;"	f
+Read_Data	lcd12864.c	/^unsigned char  Read_Data(void)$/;"	f
+Write_Cmd	lcd12864.c	/^void Write_Cmd(u8 cmd)$/;"	f
+Write_Data	lcd12864.c	/^void  Write_Data(u8 dat)$/;"	f
+GPIO_LCD	lcd12864.h	8;"	d
+LCD2MCU_Data	lcd12864.h	17;"	d
+LCD_Cmd_Pin	lcd12864.h	11;"	d
+LCD_DataIn	lcd12864.h	13;"	d
+LCD_DataOut	lcd12864.h	14;"	d
+LCD_Data_Pin	lcd12864.h	10;"	d
+LCD_EN_H	lcd12864.h	24;"	d
+LCD_EN_L	lcd12864.h	25;"	d
+LCD_RS_H	lcd12864.h	20;"	d
+LCD_RS_L	lcd12864.h	21;"	d
+LCD_RW_H	lcd12864.h	22;"	d
+LCD_RW_L	lcd12864.h	23;"	d
+RCC_APB2Periph_GPIO_LCD	lcd12864.h	9;"	d
+_LCD12864_H	lcd12864.h	2;"	d
+LED_Init	led.c	/^void LED_Init(void)$/;"	f
+LED_Turn	led.c	/^void LED_Turn(unsigned char num)$/;"	f
+LED_GPIO	led.h	6;"	d
+LED_OFF	led.h	18;"	d
+LED_ON	led.h	17;"	d
+LED_Pin_10	led.h	10;"	d
+LED_Pin_11	led.h	11;"	d
+LED_Pin_12	led.h	12;"	d
+LED_Pin_13	led.h	13;"	d
+LED_Pin_14	led.h	14;"	d
+LED_Pin_15	led.h	15;"	d
+LED_Pin_8	led.h	8;"	d
+LED_Pin_9	led.h	9;"	d
+RCC_APB2Periph_LED_GPIO	led.h	7;"	d
+_LED_H	led.h	2;"	d
+Cont_Send	remote.c	/^void Cont_Send(void)$/;"	f
+GPIO_Config	remote.c	/^void GPIO_Config(void)$/;"	f
+Remote_Init	remote.c	/^void Remote_Init(void)$/;"	f
+Remote_Process	remote.c	/^void Remote_Process(void)$/;"	f
+Remote_Send	remote.c	/^void Remote_Send(u32 code)$/;"	f
+TIM2_NVIC_Configuration	remote.c	/^void TIM2_NVIC_Configuration(void)$/;"	f
+TIM4_Init	remote.c	/^void TIM4_Init(void)                        $/;"	f
+Tim2_Config	remote.c	/^void Tim2_Config(void)$/;"	f
+code	remote.c	/^u8 code[4];$/;"	v
+count	remote.c	/^u16 count;$/;"	v
+raddress	remote.c	/^u8 raddress;$/;"	v
+rcode	remote.c	/^u8 rcode[4];$/;"	v
+waddress	remote.c	/^u8 waddress;$/;"	v
+Remote_GPIO	remote.h	12;"	d
+Remote_Receive_Pin	remote.h	13;"	d
+_REMOTE_H	remote.h	2;"	d
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

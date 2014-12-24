@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=TestV01.SchDoc
+Record=HARD_PROCESSOR_COMPONENT|BaseComponentDesignator=U2|DocumentName=TestV01.SchDoc|LibraryReference=stm32f103t8|SubProjectPath= |Configuration= |Description= |NexusDeviceId=stm32f103t8|SubPartUniqueId1=JLNOLALW|SubPartDocPath1=TestV01.SchDoc
